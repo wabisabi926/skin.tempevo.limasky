@@ -13,7 +13,7 @@
 	<expression name="VideoSet">container.content(sets) + String.Contains(container.folderpath,videodb://)</expression>
 	<expression name="VideoVersion">container.content(videoversions) + String.Contains(container.folderpath,videodb://)</expression>
 	<expression name="VideoStudio">container.content(studios) + String.Contains(container.folderpath,videodb://)</expression>
-	<expression name="VideoPosterList">[container.content(tvshows) | container.content(movies)] + ![String.Contains(container.folderpath,videodb://tvshows/titles) | String.Contains(container.folderpath,videodb://movies/titles/)]</expression>
+	<expression name="VideoPosterList">[container.content(tvshows) | container.content(movies)]</expression>
 	<expression name="VideoMovieList">container.content(movies) + !String.Contains(container.folderpath,videodb://movies/titles)</expression>
 	<expression name="VideoLandscapeList">container.content(musicvideos) + !String.Contains(container.folderpath,videodb://musicvideos/titles)</expression>
 	<expression name="VideoActorList">[container.content(artists) | container.content(actors) | container.content(directors)]</expression>

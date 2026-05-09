@@ -5,7 +5,7 @@
 	<onload condition="!Integer.isGreater(Container.NumAllItems,0)">AlarmClock(thisisvoidonviewlist,Control.SetFocus(404,0,absolute),00:00:01,silent)</onload>
 	<onunload condition="!Integer.isGreater(Container.NumAllItems,0)">CancelAlarm(thisisvoidonviewlist,silent)</onunload>
     <onload condition="Skin.hassetting(stopVideoOnMenu) + !Player.HasAudio">PlayerControl(stop)</onload>
-    <views>50,51,52,53,54,55,56,57,58,59,500,501,502,503,504,505,506,507,508,509,510</views>
+    <views>506,50,51,52,53,54,55,56,57,58,59,500,501,502,503,504,505,507,508,509,510</views>
     <controls>
         <include>UniversalGlobalBackground</include>
 		<include condition="!Skin.HasSetting(DisableFanartBackground)">FanartBackground</include>

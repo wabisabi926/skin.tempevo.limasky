@@ -442,7 +442,7 @@
 			<aligny>center</aligny>
 			<width>100%</width>
 			<height>54</height>
-			<label>$LOCALIZE[31112]</label>
+			<label>$LOCALIZE[31629]</label>
 			<label2>$INFO[Container.Viewmode]</label2>
 			<onclick>Container.NextViewMode</onclick>
 			<textoffsetx>18</textoffsetx>
