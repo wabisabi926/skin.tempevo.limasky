@@ -855,3 +855,27 @@ msgstr "查看类型"
 msgctxt "#31630"
 msgid "Binary"
 msgstr "二进制"
+
+msgctxt "#31631"
+msgid "SmallList"
+msgstr "精简列表"
+
+msgctxt "#31632"
+msgid "NormalList"
+msgstr "标准列表"
+
+msgctxt "#31633"
+msgid "SmallIcon"
+msgstr "小图标"
+
+msgctxt "#31634"
+msgid "BigIcon"
+msgstr "大图标"
+
+msgctxt "#31635"
+msgid "Landscape"
+msgstr "横版"
+
+msgctxt "#31636"
+msgid "Poster"
+msgstr "海报"

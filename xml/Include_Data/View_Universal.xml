@@ -19,7 +19,7 @@
 			<onfocus>Skin.Reset(TempEvoOpenSideMenu)</onfocus>
 			<orientation>vertical</orientation>
 			<pagecontrol>5009</pagecontrol>
-			<viewtype label="SmallList">list</viewtype>
+			<viewtype label="$LOCALIZE[31631]">list</viewtype>
 			<scrolltime tween="cubic" easing="out">500</scrolltime>
 			<itemlayout height="72">
 				<include content="ListLayoutSmallSize">
@@ -68,7 +68,7 @@
 			<onfocus>Skin.Reset(TempEvoOpenSideMenu)</onfocus>
 			<orientation>vertical</orientation>
 			<pagecontrol>5009</pagecontrol>
-			<viewtype label="NormalList">list</viewtype>
+			<viewtype label="$LOCALIZE[31632]">list</viewtype>
 			<scrolltime tween="cubic" easing="out">500</scrolltime>
 			<itemlayout height="108">
 				<include content="ListLayoutNormalSize">
@@ -200,7 +200,7 @@
 			<onfocus>Skin.Reset(TempEvoOpenSideMenu)</onfocus>
 			<orientation>vertical</orientation>
 			<pagecontrol>5009</pagecontrol>
-			<viewtype label="BigIcon">icon</viewtype>
+			<viewtype label="$LOCALIZE[31634]">icon</viewtype>
 			<scrolltime tween="cubic" easing="out">500</scrolltime>
 			<itemlayout width="324" height="396">
 				<control type="group">
@@ -456,7 +456,7 @@
 			<onfocus>Skin.Reset(TempEvoOpenSideMenu)</onfocus>
 			<orientation>vertical</orientation>
 			<pagecontrol>5009</pagecontrol>
-			<viewtype label="Poster">icon</viewtype>
+			<viewtype label="$LOCALIZE[31636]">icon</viewtype>
 			<scrolltime tween="cubic" easing="out">500</scrolltime>
 	                <itemlayout width="252" height="360">
 				<control type="group">
