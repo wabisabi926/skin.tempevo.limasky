@@ -1173,7 +1173,7 @@
 					<width>100%</width>
 					<focusedcolor>textActive</focusedcolor>
 					<font>Font24Bold</font>
-					<label>DeadPixelTest</label>
+					<label>$LOCALIZE[31637]</label>
 					<onclick>activateWindow(1107)</onclick>
 				</control>
 				<control type="button" id="902606">

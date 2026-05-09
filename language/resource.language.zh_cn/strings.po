@@ -879,3 +879,7 @@ msgstr "横版"
 msgctxt "#31636"
 msgid "Poster"
 msgstr "海报"
+
+msgctxt "#31637"
+msgid "DeadPixelTest"
+msgstr "坏点测试"
