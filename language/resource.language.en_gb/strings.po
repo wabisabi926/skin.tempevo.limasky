@@ -856,7 +856,33 @@ msgctxt "#31630"
 msgid "Binary"
 msgstr ""
 
+msgctxt "#31631"
+msgid "SmallList"
+msgstr ""
 
+msgctxt "#31632"
+msgid "NormalList"
+msgstr ""
+
+msgctxt "#31633"
+msgid "SmallIcon"
+msgstr ""
+
+msgctxt "#31634"
+msgid "BigIcon"
+msgstr ""
+
+msgctxt "#31635"
+msgid "Landscape"
+msgstr ""
+
+msgctxt "#31636"
+msgid "Poster"
+msgstr ""
+
+msgctxt "#31637"
+msgid "DeadPixelTest"
+msgstr ""
 
 
 

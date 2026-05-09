@@ -115,7 +115,7 @@
 			<onfocus>Skin.Reset(TempEvoOpenSideMenu)</onfocus>
 			<orientation>vertical</orientation>
 			<pagecontrol>5009</pagecontrol>
-			<viewtype label="SmallIcon">icon</viewtype>
+			<viewtype label="$LOCALIZE[31633]">icon</viewtype>
 			<scrolltime tween="cubic" easing="out">500</scrolltime>
 			<itemlayout width="144" height="306">
 				<control type="group">
@@ -286,7 +286,7 @@
 			<onfocus>Skin.Reset(TempEvoOpenSideMenu)</onfocus>
 			<orientation>vertical</orientation>
 			<pagecontrol>5009</pagecontrol>
-			<viewtype label="Lanskap">icon</viewtype>
+			<viewtype label="$LOCALIZE[31635]">icon</viewtype>
 			<scrolltime tween="cubic" easing="out">500</scrolltime>
 			<itemlayout width="462" height="360">
 				<control type="image">
