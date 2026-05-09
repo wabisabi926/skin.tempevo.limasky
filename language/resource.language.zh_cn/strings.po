@@ -75,7 +75,7 @@ msgstr "首页"
 
 msgctxt "#31023"
 msgid "Welcome to Kodi"
-msgstr "欢迎使用Kodi"
+msgstr "欢迎使用 Kodi"
 
 msgctxt "#31029"
 msgid "Last logged in"
@@ -83,19 +83,19 @@ msgstr "上次登录"
 
 msgctxt "#31030"
 msgid "Enable simple Music OSD"
-msgstr "启用简易音乐OSD"
+msgstr "启用简易音乐 OSD"
 
 msgctxt "#31031"
 msgid "Enable simple Video OSD"
-msgstr "启用简易视频OSD"
+msgstr "启用简易视频 OSD"
 
 msgctxt "#31032"
 msgid "Show fake watermarks"
-msgstr "显示虚拟水印"
+msgstr "显示模拟水印"
 
 msgctxt "#31033"
 msgid "Move the pop-up video playback to the background"
-msgstr "将弹出视频播放移至后台"
+msgstr "将弹窗视频切至后台播放"
 
 msgctxt "#31034"
 msgid "Enable Debug Grid"
@@ -123,7 +123,7 @@ msgstr "刷新皮肤"
 
 msgctxt "#31043"
 msgid "This skin is developed solely as a visual interface for Kodi. It does not include, provide, or promote any illegal or pirated content in any form.[CR]Kodi and this skin do not come with TV channels, movies, or live streams by default. All content must be legally provided by the user through personal media or officially licensed services.[CR]The user is fully responsible for any content sources they add and use through Kodi."
-msgstr "本皮肤仅作为Kodi的视觉界面开发，不包含、提供或推广任何形式的非法或盗版内容。[CR]Kodi和本皮肤默认不提供任何电视频道、电影或直播流。所有内容必须由用户通过个人媒体或官方授权服务合法提供。[CR]用户对通过Kodi添加和使用的任何内容来源负全部责任。"
+msgstr "本皮肤仅作为 Kodi 的视觉界面开发，不包含、提供或推广任何形式的非法或盗版内容。[CR]Kodi 和本皮肤默认不提供任何电视频道、电影或直播流。所有内容必须由用户通过个人媒体或官方授权服务合法提供。[CR]用户对通过 Kodi 添加和使用的任何内容来源负全部责任。"
 
 msgctxt "#31044"
 msgid "Debugging"
@@ -155,11 +155,11 @@ msgstr "最近添加的电影"
 
 msgctxt "#31056"
 msgid "In Progress Movies"
-msgstr "观看中的电影"
+msgstr "正在观看的电影"
 
 msgctxt "#31057"
 msgid "Recently Added TV Shows"
-msgstr "最近添加的电视节目"
+msgstr "最近添加的电视剧"
 
 msgctxt "#31058"
 msgid "Let's watch it again"
@@ -167,11 +167,11 @@ msgstr "再看一次"
 
 msgctxt "#31060"
 msgid "In Progress TV Shows"
-msgstr "观看中的电视节目"
+msgstr "正在观看的电视剧"
 
 msgctxt "#31061"
 msgid "In Progress Episodes"
-msgstr "观看中的剧集"
+msgstr "正在观看的剧集"
 
 msgctxt "#31062"
 msgid "Recently Added Episodes"
@@ -247,7 +247,7 @@ msgstr "选择预设"
 
 msgctxt "#31083"
 msgid "Highest Rated TV Shows"
-msgstr "评分最高的电视节目"
+msgstr "评分最高的电视剧"
 
 msgctxt "#31084"
 msgid "Highest Rated Episodes"
@@ -259,15 +259,15 @@ msgstr "评分最高的电影"
 
 msgctxt "#31086"
 msgid "Most Interested by You"
-msgstr "您最感兴趣的"
+msgstr "您的兴趣推荐"
 
 msgctxt "#31087"
 msgid "Loading..."
-msgstr "加载中..."
+msgstr "正在加载..."
 
 msgctxt "#31088"
 msgid "Favourites"
-msgstr "收藏"
+msgstr "收藏夹"
 
 msgctxt "#31090"
 msgid "Movies"
@@ -275,7 +275,7 @@ msgstr "电影"
 
 msgctxt "#31093"
 msgid "TV Shows"
-msgstr "电视节目"
+msgstr "电视剧"
 
 msgctxt "#31095"
 msgid "Music Videos"
@@ -339,7 +339,7 @@ msgstr "辅助功能"
 
 msgctxt "#31113"
 msgid "Playback and OSD"
-msgstr "播放和OSD"
+msgstr "播放和 OSD"
 
 msgctxt "#31114"
 msgid "Information"
@@ -347,7 +347,7 @@ msgstr "信息"
 
 msgctxt "#31115"
 msgid "Limasky Theme"
-msgstr "Limasky主题"
+msgstr "Limasky 主题"
 
 msgctxt "#31116"
 msgid "Disable"
@@ -363,7 +363,7 @@ msgstr "由"
 
 msgctxt "#31119"
 msgid "Stop video when exit from fullscreen"
-msgstr "退出全屏时停止视频"
+msgstr "退出全屏时停止播放"
 
 msgctxt "#31120"
 msgid "Set Universal Background Image"
@@ -455,7 +455,7 @@ msgstr "最近添加的音乐视频"
 
 msgctxt "#31142"
 msgid "Touch Screen Mode"
-msgstr "触摸屏模式"
+msgstr "触屏模式"
 
 msgctxt "#31143"
 msgid "Open"
@@ -474,7 +474,6 @@ msgid "Kiosk Mode"
 msgstr "信息亭模式"
 
 # For Welcome/Login Screen
-
 msgctxt "#31200"
 msgid "Welcome"
 msgstr "欢迎"
@@ -533,19 +532,19 @@ msgstr "完成"
 
 msgctxt "#31214"
 msgid "Quick Tips About LimaSky Controls"
-msgstr "LimaSky控件快速提示"
+msgstr "LimaSky 控件快速提示"
 
 msgctxt "#31215"
 msgid "Click on the album/cover to close the OSD and cu-lrc-lyrics dialogs"
-msgstr "点击专辑/封面关闭OSD和歌词对话框"
+msgstr "点击专辑/封面关闭 OSD 和歌词对话框"
 
 msgctxt "#31217"
 msgid "Skin Model"
-msgstr "皮肤模式"
+msgstr "皮肤显示模式"
 
 msgctxt "#31221"
 msgid "Visualisation and OSD Display Have Been Changed"
-msgstr "可视化效果和OSD显示已更改"
+msgstr "可视化效果和 OSD 显示已更改"
 
 msgctxt "#31222"
 msgid "The display has been changed to only display the visualisation."
@@ -556,7 +555,6 @@ msgid "The display is changed back to default."
 msgstr "显示已恢复为默认设置。"
 
 # For Skin Setting
-
 msgctxt "#31251"
 msgid "Dark Black"
 msgstr "深黑色"
@@ -580,7 +578,6 @@ msgstr "用户图片集"
 msgctxt "#31256"
 msgid "User Videos"
 msgstr "用户视频"
-
 
 msgctxt "#31260"
 msgid "Type Here..."
@@ -617,7 +614,7 @@ msgstr "居中"
 
 msgctxt "#31268"
 msgid "Aspect Ratio for Wallpaper"
-msgstr "壁纸纵横比"
+msgstr "壁纸宽高比"
 
 msgctxt "#31269"
 msgid "Choose Solid Color for Wallpaper"
@@ -633,23 +630,23 @@ msgstr "仅可视化"
 
 msgctxt "#31272"
 msgid "Simple Metro"
-msgstr "简约Metro"
+msgstr "简约 Metro"
 
 msgctxt "#31273"
 msgid "Status bar visibility on skin"
-msgstr "皮肤状态栏可见性"
+msgstr "皮肤状态栏显示开关"
 
 msgctxt "#31274"
 msgid "Show the scroll bar on the skin"
-msgstr "显示皮肤滚动条"
+msgstr "显示皮肤界面滚动条"
 
 msgctxt "#31275"
 msgid "Disable animations on some interactions and windows"
-msgstr "禁用部分交互和窗口动画"
+msgstr "禁用部分界面交互动画"
 
 msgctxt "#31276"
 msgid "Screen dimness 0-100 (screen colors may be inaccurate)"
-msgstr "屏幕亮度0-100(屏幕颜色可能不准确)"
+msgstr "屏幕亮度 0-100（可能存在色彩偏差）"
 
 msgctxt "#31277"
 msgid "Show back button"
@@ -657,7 +654,7 @@ msgstr "显示返回按钮"
 
 msgctxt "#31280"
 msgid "Lockscreen"
-msgstr "锁屏"
+msgstr "锁屏界面"
 
 msgctxt "#31281"
 msgid "Anti-burn-in Mode"
@@ -665,7 +662,7 @@ msgstr "防烧屏模式"
 
 msgctxt "#31282"
 msgid "Docking Mode"
-msgstr "对接模式"
+msgstr "停靠模式"
 
 msgctxt "#31283"
 msgid "This model selection will apply if docking mode is not activated"
@@ -677,30 +674,29 @@ msgstr "独立锁屏背景"
 
 msgctxt "#31285"
 msgid "Widget"
-msgstr "小部件"
+msgstr "小组件"
 
 msgctxt "#31286"
 msgid "Enable auto-lock"
-msgstr "启用自动锁定"
+msgstr "启用自动锁屏"
 
 msgctxt "#31287"
 msgid "Screen timeout for auto-lock (in seconds)"
-msgstr "自动锁定屏幕超时(秒)"
+msgstr "自动锁屏超时时间（秒）"
 
 msgctxt "#31288"
 msgid "Automatically close video OSD"
-msgstr "自动关闭视频OSD"
+msgstr "自动关闭视频 OSD"
 
 msgctxt "#31289"
 msgid "Time for auto close Video OSD (in seconds)"
-msgstr "自动关闭视频OSD时间(秒)"
+msgstr "自动关闭视频 OSD 时间（秒）"
 
 msgctxt "#31290"
 msgid "Show Back/Close button"
 msgstr "显示返回/关闭按钮"
 
 # For Library Music
-
 msgctxt "#31500"
 msgid "Music"
 msgstr "音乐"
@@ -739,7 +735,7 @@ msgstr "用户收藏"
 
 msgctxt "#31515"
 msgid "Recommendation For You"
-msgstr "为您推荐"
+msgstr "个性化推荐"
 
 msgctxt "#31516"
 msgid "Switch Playlist Content Type to Song"
@@ -755,11 +751,11 @@ msgstr "查看完整列表"
 
 msgctxt "#31519"
 msgid "No media is playing"
-msgstr "没有媒体正在播放"
+msgstr "当前无媒体播放"
 
 msgctxt "#31520"
 msgid "Please play media from your library or click Party Mode to play media randomly."
-msgstr "请从您的媒体库播放媒体或点击派对模式随机播放媒体。"
+msgstr "请从您的媒体库播放内容或开启派对模式随机播放。"
 
 msgctxt "#31521"
 msgid "Playlist options"
@@ -777,16 +773,14 @@ msgctxt "#31591"
 msgid "TV & Radio"
 msgstr "电视与广播"
 
-
 # For Library Video
-
 msgctxt "#31598"
 msgid "There's nothing here!"
-msgstr "这里什么都没有！"
+msgstr "暂无内容！"
 
 msgctxt "#31599"
 msgid "You have pressed the parent folder[CR]Click the button below for the next window."
-msgstr "您已按下父文件夹[CR]点击下方按钮进入下一个窗口。"
+msgstr "已返回上级目录[CR]点击下方按钮进入对应页面。"
 
 msgctxt "#31600"
 msgid "Video"
@@ -794,15 +788,15 @@ msgstr "视频"
 
 msgctxt "#31601"
 msgid "All TV Shows"
-msgstr "所有电视节目"
+msgstr "全部电视剧"
 
 msgctxt "#31602"
 msgid "All Seasons"
-msgstr "所有季"
+msgstr "全部季"
 
 msgctxt "#31603"
 msgid "All Episodes"
-msgstr "所有剧集"
+msgstr "全部剧集"
 
 msgctxt "#31605"
 msgid "Change Location"
@@ -818,7 +812,7 @@ msgstr "搜索本地媒体库"
 
 msgctxt "#31612"
 msgid "Search YouTube"
-msgstr "搜索YouTube"
+msgstr "搜索 YouTube"
 
 msgctxt "#31613"
 msgid "Search add-ons"
@@ -830,11 +824,11 @@ msgstr "视频菜单"
 
 msgctxt "#31615"
 msgid "DVD Menu"
-msgstr "DVD菜单"
+msgstr "DVD 菜单"
 
 msgctxt "#31616"
 msgid "Cast and Role"
-msgstr "演员与角色"
+msgstr "演员及角色"
 
 msgctxt "#31617"
 msgid "Add group"
@@ -850,11 +844,11 @@ msgstr "删除组"
 
 msgctxt "#31629"
 msgid "View Type"
-msgstr "查看类型"
+msgstr "视图样式"
 
 msgctxt "#31630"
 msgid "Binary"
-msgstr "二进制"
+msgstr "双列视图"
 
 msgctxt "#31631"
 msgid "SmallList"
