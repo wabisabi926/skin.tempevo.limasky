@@ -602,7 +602,7 @@
 			</include>
                    	<left>0</left>
                  	<bottom>0</bottom>
-			<height>864</height>
+			<height>880</height>
 			<onup>20000</onup>
 			<ondown>20001</ondown>
 			<onright>5009</onright>
@@ -614,12 +614,12 @@
 			<preloaditems>2</preloaditems>
 			<viewtype label="$LOCALIZE[31636]">icon</viewtype>
 			<scrolltime tween="cubic" easing="out">500</scrolltime>
-	                <itemlayout width="252" height="360">
+	                <itemlayout width="252" height="408">
 				<control type="group">
 					<left>18</left>
 					<top>18</top>
 					<width>216</width>
-					<height>324</height>
+					<height>372</height>
 					<control type="image">
 						<posx>0</posx>
 						<posy>0</posy>
@@ -641,9 +641,20 @@
 						<bordersize>0</bordersize>
 						<aspectratio scalediffuse="false">scale</aspectratio>
 					</control>
+					<control type="textbox">
+						<left>9</left>
+						<top>316</top>
+						<width>198</width>
+						<height>72</height>
+						<font>Font20Medium</font>
+						<textcolor>textActive</textcolor>
+						<aligny>center</aligny>
+						<align>center</align>
+						<label>$INFO[ListItem.Label]</label>
+					</control>
 	                    	</control>
 	                </itemlayout>
-	                <focusedlayout width="252" height="360">
+	                <focusedlayout width="252" height="408">
 				<control type="group">
 					<animation type="focus">
 						<effect type="zoom" center="auto" start="100" end="110" time="180" tween="cubic" easing="inout" />
@@ -654,7 +665,7 @@
 					<left>18</left>
 					<top>18</top>
 					<width>216</width>
-					<height>324</height>
+					<height>372</height>
 					<control type="image">
 						<posx>0</posx>
 						<posy>0</posy>
@@ -674,6 +685,18 @@
 						<colordiffuse>FFFFFFFF</colordiffuse>
 						<bordersize>0</bordersize>
 						<aspectratio scalediffuse="false">scale</aspectratio>
+					</control>
+					<control type="textbox">
+						<left>9</left>
+						<top>316</top>
+						<width>198</width>
+						<height>72</height>
+						<font>Font20Medium</font>
+						<textcolor>textActive</textcolor>
+						<aligny>center</aligny>
+						<align>center</align>
+						<autoscroll delay="500" repeat="3000" time="2000">Control.HasFocus(506)</autoscroll>
+						<label>$INFO[ListItem.Label]</label>
 					</control>
 	                    	</control>
 	                </focusedlayout>
