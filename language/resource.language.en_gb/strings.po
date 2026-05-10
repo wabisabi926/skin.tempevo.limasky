@@ -877,7 +877,7 @@ msgid "Landscape"
 msgstr ""
 
 msgctxt "#31636"
-msgid "Poster"
+msgid "Poster Wall"
 msgstr ""
 
 msgctxt "#31637"

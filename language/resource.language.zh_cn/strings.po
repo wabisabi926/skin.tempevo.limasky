@@ -871,8 +871,8 @@ msgid "Landscape"
 msgstr "横版"
 
 msgctxt "#31636"
-msgid "Poster"
-msgstr "海报"
+msgid "Poster Wall"
+msgstr "海报墙"
 
 msgctxt "#31637"
 msgid "DeadPixelTest"
